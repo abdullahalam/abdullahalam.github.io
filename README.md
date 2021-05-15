@@ -1,3 +1,3 @@
-# abdullahalam.github.io
+# omi-alam.github.io
 
-[Demo](https://abdullahalam.github.io)
+[Demo](https://omi-alam.github.io)
