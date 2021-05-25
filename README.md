@@ -1,3 +1,3 @@
-# omi-alam.github.io
+# abdullah-alam.glitch.me
 
-[Demo](https://omi-alam.github.io)
+[Demo](https://abdullah-alam.glitch.me)
